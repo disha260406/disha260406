@@ -129,23 +129,18 @@
 
 ## 📫 Connect With Me
 
-<p>
-<a href="https://github.com/disha260406">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
- ## 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:dishadevgirkar26@gmail.com">
+  <a href="mailto:dishadev...@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/disha-devgirkar-84486631a/">
+  <a href="https://www.linkedin.com/in/disha-devgirkar-84486631a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/disha260406">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-</a>
 </p>
 
 ---
